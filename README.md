@@ -1,6 +1,6 @@
 # Tutorial on 3D Image Classification 
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hasibzunair/melanoma-detection-demo)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/keras-io/3D_CNN_Pneumonia)
 
 Train a 3D convolutional neural network to predict presence of pneumonia. Now on the Keras docs ([Link](https://keras.io/examples/vision/3D_image_classification/))!
 
